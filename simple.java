@@ -4,3 +4,4 @@ class Simple{
     }
 }
 edit of master branch
+one more check
